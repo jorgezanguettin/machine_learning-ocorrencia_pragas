@@ -1,2 +1,2 @@
-# machine_learning-ocorrencia_pragas
+# Machine Learning - Spodoptera Frugiperda
 O presente trabalho tem como objetivo analisar e correlacionar as bases de dados fornecidas pela Holambra Agrícola, sendo elas o banco de dados de monitoramento de pragas em glebas de Algodão e dados meteorológicos obtidos da plataforma OpenWeatherMap, comparando algoritmos de Machine Learning, utilizando o aprendizado supervisionado, para prever a ocorrência da praga Spodoptera frugiperda na cultura do algodão levando em consideração o histórico de ocorrências e o histórico meteorológico das lavouras.
